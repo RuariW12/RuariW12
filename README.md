@@ -7,7 +7,7 @@ Undergraduate at Virginia Tech studying Business Information Technology. Graduat
 - **Cloud & Infrastructure:** AWS, Terraform, Linux
 - **Security:** Network+, Security+, AWS Solutions Architect Associate
 - **Languages:** Python, Bash, React, Rust (learning), 
-- **Tools:** Neovim, Git, Docker, i3wm
+- **Tools:** Neovim, Git, Docker, i3wm, Kubernetes,
 
 ## What I'm focused on
 

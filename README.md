@@ -1,6 +1,6 @@
 # Hey, I'm Ruari 👋
 
-Undergraduate at Virginia Tech studying Business Information Technology (Decision Support Systems). Graduating December 2026.
+Undergraduate at Virginia Tech studying Business Information Technology. Graduating December 2026.
 
 ## What I'm working with
 

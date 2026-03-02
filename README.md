@@ -1,25 +1,26 @@
-# Hey, I'm Ruari 👋
+# Hey, I'm Ruari
 
-Undergraduate at Virginia Tech studying Business Information Technology. Graduating December 2026.
+**Business Information Technology @ Virginia Tech** · Graduating December 2026
 
-## What I'm working with
+Building at the intersection of cloud infrastructure, security, and automation. Currently exploring DevSecOps workflows, infrastructure as code, and systems programming with Rust.
 
-- **Cloud & Infrastructure:** AWS, Terraform, Linux
-- **Security:** Network+, Security+, AWS Solutions Architect Associate
-- **Languages:** Python, Bash, React, Rust (learning), 
-- **Tools:** Neovim, Git, Docker, i3wm, Kubernetes,
+---
 
-## What I'm focused on
+### 🛠 Tech Stack
 
-- DevSecOps and cloud engineering
-- Infrastructure as code
-- Systems programming with Rust
-- Blockchain and smart contract security
+**Cloud & Infra** · AWS, Terraform, Docker, Kubernetes, Linux  
+**Languages** · Python, Bash, Rust (learning), HTML, CSS, JS, 
+**Security** · Network architecture, IAM, compliance frameworks  
+**Environment** · Neovim, i3wm, Git, Linux Mint
 
-## Certifications
+---
 
-- AWS Solutions Architect – Associate
-- AWS Cloud Practitioner
-- CompTIA Security+
-- CompTIA Network+
-- HashiCorp Terraform Associate 003
+### 📜 Certifications
+
+AWS Solutions Architect – Associate · AWS Cloud Practitioner · CompTIA Security+ · CompTIA Network+ · HashiCorp Terraform Associate 003
+
+---
+
+### 🔭 Current Interests
+
+DevSecOps · Cloud Engineering · Infrastructure as Code · Smart Contract Security · Systems Programming · Game Development

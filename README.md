@@ -6,7 +6,7 @@ Undergraduate at Virginia Tech studying Business Information Technology (Decisio
 
 - **Cloud & Infrastructure:** AWS, Terraform, Linux
 - **Security:** Network+, Security+, AWS Solutions Architect Associate
-- **Languages:** Python, Rust (learning), Bash
+- **Languages:** Python, Bash, React, Rust (learning), 
 - **Tools:** Neovim, Git, Docker, i3wm
 
 ## What I'm focused on

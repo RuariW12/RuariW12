@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Ruari 👋
 
-<!--
-**RuariW12/RuariW12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate at Virginia Tech studying Business Information Technology (Decision Support Systems). Graduating December 2026.
 
-Here are some ideas to get you started:
+## What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud & Infrastructure:** AWS, Terraform, Linux
+- **Security:** Network+, Security+, AWS Solutions Architect Associate
+- **Languages:** Python, Rust (learning), Bash
+- **Tools:** Neovim, Git, Docker, i3wm
+
+## What I'm focused on
+
+- DevSecOps and cloud engineering
+- Infrastructure as code
+- Systems programming with Rust
+- Blockchain and smart contract security
+
+## Certifications
+
+- AWS Solutions Architect – Associate
+- AWS Cloud Practitioner
+- CompTIA Security+
+- CompTIA Network+
+- HashiCorp Terraform Associate 003

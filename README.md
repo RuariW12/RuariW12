@@ -9,7 +9,7 @@ Building at the intersection of cloud infrastructure, security, and automation. 
 ### 🛠 Tech Stack
 
 **Cloud & Infra** · AWS, Terraform, Docker, Kubernetes, Linux  
-**Languages** · Python, Bash, Rust (learning), HTML, CSS, JS, 
+**Languages** · Python, Bash, Rust, Go, HTML, CSS, JS
 **Security** · Network architecture, IAM, compliance frameworks  
 **Environment** · Neovim, i3wm, Git, Linux Mint
 

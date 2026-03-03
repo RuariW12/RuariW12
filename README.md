@@ -23,4 +23,4 @@ AWS Solutions Architect – Associate · AWS Cloud Practitioner · CompTIA Secur
 
 ### 🔭 Current Interests
 
-DevSecOps · Cloud Engineering · Infrastructure as Code · Smart Contract Security · Systems Programming · Game Development
+DevSecOps · Cloud Engineering · Infrastructure as Code · Blockchain & Web3 · Systems Programming · Game Development

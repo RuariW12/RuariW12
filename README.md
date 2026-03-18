@@ -2,7 +2,7 @@
 
 **Business Information Technology @ Virginia Tech** · Graduating December 2026
 
-Building at the intersection of cloud infrastructure, security, and automation. Currently exploring DevSecOps workflows, infrastructure as code, and systems programming with Rust.
+Building at the intersection of cloud infrastructure, security, and automation. Currently exploring DevSecOps workflows, infrastructure as code, and systems programming with C & Rust.
 
 ---
 

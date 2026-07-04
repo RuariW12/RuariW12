@@ -1,4 +1,4 @@
-# Hey, I'm Ruari
+# Welcome
 
 **Business Information Technology @ Virginia Tech** · Graduating December 2026
 

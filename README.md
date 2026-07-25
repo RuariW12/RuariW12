@@ -3,7 +3,8 @@
 **Business Information Technology @ Virginia Tech** · Graduating December 2026
 **Founder, ARAI Systems** · Cloud infrastructure and open-source AI automation for small businesses
 
-Building at the intersection of cloud infrastructure, security, and automation. 
+Building at the intersection of cloud infrastructure, security, and automation. Most of what I
+build runs on infrastructure I own, defined in Terraform, and stays that way on purpose.
 
 ---
 
@@ -47,7 +48,8 @@ blue team practice: mock honeypots, packet capture, and Kali tooling against lab
 [![HashiCorp Certified: Terraform Associate (003)](https://img.shields.io/badge/Terraform-Associate%20(003)-623CE4?logo=terraform&logoColor=white)](https://www.credly.com/badges/d64ce3e0-a330-4ba0-a38a-dafd93386a35/linked_in_profile) ·
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/6c65ca11-13eb-4bac-a9d8-3c8e8b798053/linked_in_profile) ·
 [![Microsoft Certified: Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?logo=microsoftazure&logoColor=white)](#) ·
-![Google Data Analytics](https://www.credly.com/badges/a8ed027a-120c-420d-adc5-41cadbe6e446/linked_in_profile)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?logo=google&logoColor=white)](#)
+
 ---
 
 ### 📫 Reach Me

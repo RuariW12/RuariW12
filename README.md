@@ -41,7 +41,7 @@ blue team practice: mock honeypots, packet capture, and Kali tooling against lab
 
 **Web** · React, FastAPI, REST APIs
 
-**Environment** · Arch, Neovim, i3wm, Git
+**Environment** · Debian, Arch, Neovim, i3wm, Git
 
 ---
 

@@ -3,8 +3,7 @@
 **Business Information Technology @ Virginia Tech** · Graduating December 2026
 **Founder, ARAI Systems** · Cloud infrastructure and open-source AI automation for small businesses
 
-Building at the intersection of cloud infrastructure, security, and automation. Most of what I
-build runs on infrastructure I own, defined in Terraform, and stays that way on purpose.
+Building at the intersection of cloud infrastructure, security, and automation. 
 
 ---
 

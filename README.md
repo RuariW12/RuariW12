@@ -32,10 +32,15 @@ blue team practice: mock honeypots, packet capture, and Kali tooling against lab
 ### 🛠 Tech Stack
 
 **Cloud & DevOps** · AWS, Terraform, Docker, Kubernetes, GitHub Actions, Ansible, Packer
+
 **Systems & Security** · Linux, Proxmox, VLANs, DNS, firewall policy, IAM, Trivy, Splunk, packet analysis
+
 **Languages** · Python, SQL, Bash, JavaScript, Go
+
 **Data & AI** · PostgreSQL, pandas, Power BI, RAG, vector databases, Ollama, PyTorch
+
 **Web** · React, FastAPI, REST APIs
+
 **Environment** · Arch, Neovim, i3wm, Git
 
 ---

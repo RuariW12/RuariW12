@@ -16,12 +16,6 @@ bullish/bearish score from automated Python ETL. Ollama and a vector database ha
 summarization and natural-language queries, all inference on private hardware.
 `Python` `PostgreSQL` `Vector DB` `Ollama` `React` `Docker`
 
-**Maroon Ledger** · Production-grade cloud banking platform built entirely as Terraform IaC:
-multi-AZ VPC, ALB fronting ECS Fargate, RDS PostgreSQL in a private tier, chained security groups
-and scoped IAM throughout. Extended with a zero-credential GitHub Actions pipeline using OIDC
-federation and Trivy scanning as a build-stage gate.
-`Terraform` `AWS` `Docker` `GitHub Actions` `Trivy`
-
 **Homelab** · Proxmox cluster on a VLAN-segmented network running Pi-hole, a self-hosted Git
 server, a full Bitcoin node, Ollama inference, and NAS storage. Isolated sandbox VMs for red and
 blue team practice: mock honeypots, packet capture, and Kali tooling against lab targets.

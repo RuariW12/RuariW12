@@ -1,7 +1,8 @@
 # Welcome
 
 **Business Information Technology @ Virginia Tech** · Graduating December 2026
-**Founder, ARAI Systems** · Cloud infrastructure and open-source AI automation for small businesses
+
+**Founder, ARAI Solutions** · Cloud infrastructure and open-source AI automation for small businesses
 
 Building at the intersection of cloud infrastructure, security, and automation. 
 

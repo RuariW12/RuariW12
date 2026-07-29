@@ -9,5 +9,5 @@
 [![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?logo=google&logoColor=white)](#)
 ---
 
-### 📫 Reach Me
+### Reach Me
 [LinkedIn](https://linkedin.com/in/ruari-whalen) · ruariw16@gmail.com

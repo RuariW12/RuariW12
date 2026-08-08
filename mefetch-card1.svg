@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="427" viewBox="0 0 860 427">
+  <metadata id="mefetch-config">eyJ1c2VybmFtZSI6InJ4d2hhbGVuIiwiaG9zdG5hbWUiOiJnaXRodWIuY29tIiwiYmFja2dyb3VuZCI6IiMwZDExMTciLCJrZXljb2xvciI6IiM1OGE2ZmYiLCJ0ZXh0Y29sb3IiOiIjY2RkOWU1Iiwic2hvd3N0YXRzIjpmYWxzZSwiZmllbGRzIjpbIi0tLXNwYWNlLS0tIiwiLS0tOkV4cGVyaWVuY2UiLCJBUkFJIFN5c3RlbXM6Rm91bmRlciB8IFNNQiBJbmZyYXN0cnVjdHVyZSBhbmQgSW50ZWxsaWdlbmNlIiwiTWlyY29zdHJhdGVneTpDbG91ZCBFbmdpbmVlciBJbnRlcm4iLCItLS1zcGFjZS0tLSIsIi0tLTpFZHVjYXRpb24iLCJWaXJnaW5pYSBUZWNoOkJ1c2luZXNzIElUIFVuZGVyZ3JhZHVhdGUgfCAyMDI2IiwiLS0tc3BhY2UtLS0iLCItLS06Q3VycmVudGx5IEJ1aWxkaW5nIiwiQ29iYWx0OlNlbGYgaG9zdGVkIHJlc2VhcmNoIGFuZCBtYXJrZXQgaW50ZWxsaWdlbmNlIiwiLjpwbGF0Zm9ybS4gRVRMIHdvcmtmbG93IHdpdGggT2xsYW1hIGludGVncmF0aW9uLiIsIi0tLXNwYWNlLS0tIiwiSG9tZWxhYjpQcm94bW94IGNsdXN0ZXIgcnVubmluZyBwZXJzb25hbCBMTE0sIEplbGx5ZmluLCIsIi46UGktaG9sZSwgQml0Y29pbiBub2RlLCBhbmQgbW9yZS4gQWxzbyB1c2VkIGZvciIsIi46aXNvbGF0ZWQgc2FuZGJveCBlbnZpcm9ubWVudCBmb3IgZGV2IHRlc3RpbmcuIiwiLS0tc3BhY2UtLS0iLCItLS06VGVjaCBTdGFjayIsIkNsb3VkL0Rldk9wczpBV1MsIFRlcnJhZm9ybSwgRG9ja2VyLCBLOHMsIEFuc2libGUsIFBhY2tlciIsIlNlY3VyaXR5L1N5c3RlbXM6TGludXggKEFyY2gsIERlYmlhbiwgS2FsaSksIFRyaXZ5LCBCbHVlL1JlZCIsIkxhbmd1YWdlczpQeXRob24sIFNRTCwgR28sIEJhc2gsIEhUTUwsIENTUywgSlMsIEMsIFJ1c3QiLCJEYXRhL0FJOlB5dG9yY2gsIFBhbmRhcywgTnVtcHksIE9sbGFtYSwgUkFHLCBWZWN0b3IgREIncyIsIk90aGVyOkdpdCwgaTN3bSwgbmVvdmltLCB0bXV4Li4uIl0sImFzY2lpIjoiICAgICAgICAgICAgICAgICAgIC46KyolUyMjQEBAQEBAIyNTJSorOi4gICAgICAgICAgICAgICAgICAgXG4gICAgICAgICAgICAgIC4sKyUjQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCMlKywuICAgICAgICAgICAgICBcbiAgICAgICAgICAgLjo/I0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCM/Oi4gICAgICAgICAgIFxuICAgICAgICAgLisjQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAIysuICAgICAgICAgXG4gICAgICAgLipAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEAqLiAgICAgICBcbiAgICAgLitAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAKy4gICAgIFxuICAgIC4lQEBAQEBAQCMsLDorPyNAQEBAQEBAQEBAQEBAQEBAQEBAQFM/KzosLEBAQEBAQEBAJSwgICAgXG4gICA6I0BAQEBAQEBAKiAgICAgIC4rPz8rOzs6Ojo6Ojo7Oys/PysuICAgICAgKkBAQEBAQEBAIzogICBcbiAgOkBAQEBAQEBAQEA7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7QEBAQEBAQEBAQDogIFxuICwjQEBAQEBAQEBAQD8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID9AQEBAQEBAQEBAIywgXG4uJUBAQEBAQEBAQEBAOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgO0BAQEBAQEBAQEBAJS5cbjpAQEBAQEBAQEBAIywgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCNAQEBAQEBAQEBAOlxuP0BAQEBAQEBAQEA7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOkBAQEBAQEBAQEA/XG4jQEBAQEBAQEBAQC4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQEBAQEBAQEBAQCNcbkBAQEBAQEBAQEAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEAuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLkBAQEBAQEBAQEBAXG4jQEBAQEBAQEBAQCsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArQEBAQEBAQEBAQCNcbj9AQEBAQEBAQEBAQCwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLEBAQEBAQEBAQEBAP1xuLEBAQEBAQEBAQEBAIywgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwjQEBAQEBAQEBAQEAsXG4gKkBAQEBAQEBAQEBAQD8sICAgICAgICAgICAgICAgICAgICAgICAgICAgICw/QEBAQEBAQEBAQEBAPyBcbiAuU0BAQEBAJSVTQEBAQEBTKjsuICAgICAgICAgICAgICAgICAgIC4uOypTQEBAQEBAQEBAQEBAQFMuIFxuICAuU0BAQEAlOy4uKyNAQEBAQEBAUyU/LiAgICAgICAgICAuPyVTQEBAQEBAQEBAQEBAQEBAQEBTLiAgXG4gICAuJUBAQEBAIzogLj9AQEBAQEBAQCwgICAgICAgICAgICAsQEBAQEBAQEBAQEBAQEBAQEBAJS4gICBcbiAgICAuK0BAQEBAQDogICwqJVNTUz87ICAgICAgICAgICAgICA/QEBAQEBAQEBAQEBAQEBAQCsuICAgIFxuICAgICAgLCVAQEBAQCsuICAgICAgICAgICAgICAgICAgICAgICpAQEBAQEBAQEBAQEBAQCUsICAgICAgXG4gICAgICAgIDpTQEBAQEAlKisrKysrOiAgICAgICAgICAgICAgKkBAQEBAQEBAQEBAQFM6ICAgICAgICBcbiAgICAgICAgICAsP0BAQEBAQEBAQEA/ICAgICAgICAgICAgICAqQEBAQEBAQEBAQD86ICAgICAgICAgIFxuICAgICAgICAgICAgLjs/I0BAQEBAQD8gICAgICAgICAgICAgICpAQEBAQEAjPzsuICAgICAgICAgICAgXG4gICAgICAgICAgICAgICAuLCs/U0BAKyAgICAgICAgICAgICAgO0BAUz8rLC4gICAgICAgICAgICAgICBcbiJ9</metadata>
+  <style>
+    .bg        { fill: #0d1117; }
+    .border    { fill: none; stroke: #30363d; stroke-width: 1; }
+    .title     { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .titledash { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .divider   { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .dividash  { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .sep       { fill: #30363d; }
+    .key       { fill: #58a6ff; font-family: monospace; font-size: 11px; }
+    .val       { fill: #cdd9e5; font-family: monospace; font-size: 11px; }
+    .ascii     { fill: #cdd9e5; font-family: monospace; font-size: 5.8px; }
+    .dot       { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .dots      { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .green     { fill: #3fb950; font-family: monospace; font-size: 11px; }
+    .red       { fill: #f85149; font-family: monospace; font-size: 11px; }
+  </style>
+
+  <rect class="bg" width="860" height="427" rx="8" />
+  <rect class="border" x="0.5" y="0.5" width="859" height="426" rx="8" />
+
+  
+  <text class="ascii" x="150" y="112" text-anchor="middle" xml:space="preserve">                   .:+*%S##@@@@@@##S%*+:.                   </text>
+  
+  <text class="ascii" x="150" y="119" text-anchor="middle" xml:space="preserve">              .,+%#@@@@@@@@@@@@@@@@@@@@@@#%+,.              </text>
+  
+  <text class="ascii" x="150" y="126" text-anchor="middle" xml:space="preserve">           .:?#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#?:.           </text>
+  
+  <text class="ascii" x="150" y="133" text-anchor="middle" xml:space="preserve">         .+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+.         </text>
+  
+  <text class="ascii" x="150" y="140" text-anchor="middle" xml:space="preserve">       .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.       </text>
+  
+  <text class="ascii" x="150" y="147" text-anchor="middle" xml:space="preserve">     .+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.     </text>
+  
+  <text class="ascii" x="150" y="154" text-anchor="middle" xml:space="preserve">    .%@@@@@@@#,,:+?#@@@@@@@@@@@@@@@@@@@@S?+:,,@@@@@@@@%,    </text>
+  
+  <text class="ascii" x="150" y="161" text-anchor="middle" xml:space="preserve">   :#@@@@@@@@*      .+??+;;::::::;;+??+.      *@@@@@@@@#:   </text>
+  
+  <text class="ascii" x="150" y="168" text-anchor="middle" xml:space="preserve">  :@@@@@@@@@@;                                ;@@@@@@@@@@:  </text>
+  
+  <text class="ascii" x="150" y="175" text-anchor="middle" xml:space="preserve"> ,#@@@@@@@@@@?                                ?@@@@@@@@@@#, </text>
+  
+  <text class="ascii" x="150" y="182" text-anchor="middle" xml:space="preserve">.%@@@@@@@@@@@;                                ;@@@@@@@@@@@%.</text>
+  
+  <text class="ascii" x="150" y="189" text-anchor="middle" xml:space="preserve">:@@@@@@@@@@#,                                  ,#@@@@@@@@@@:</text>
+  
+  <text class="ascii" x="150" y="196" text-anchor="middle" xml:space="preserve">?@@@@@@@@@@;                                    :@@@@@@@@@@?</text>
+  
+  <text class="ascii" x="150" y="203" text-anchor="middle" xml:space="preserve">#@@@@@@@@@@.                                    .@@@@@@@@@@#</text>
+  
+  <text class="ascii" x="150" y="210" text-anchor="middle" xml:space="preserve">@@@@@@@@@@#                                      #@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="217" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@.                                    .@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="224" text-anchor="middle" xml:space="preserve">#@@@@@@@@@@+                                    +@@@@@@@@@@#</text>
+  
+  <text class="ascii" x="150" y="231" text-anchor="middle" xml:space="preserve">?@@@@@@@@@@@,                                  ,@@@@@@@@@@@?</text>
+  
+  <text class="ascii" x="150" y="238" text-anchor="middle" xml:space="preserve">,@@@@@@@@@@@#,                                ,#@@@@@@@@@@@,</text>
+  
+  <text class="ascii" x="150" y="245" text-anchor="middle" xml:space="preserve"> *@@@@@@@@@@@@?,                            ,?@@@@@@@@@@@@? </text>
+  
+  <text class="ascii" x="150" y="252" text-anchor="middle" xml:space="preserve"> .S@@@@@%%S@@@@@S*;.                   ..;*S@@@@@@@@@@@@@S. </text>
+  
+  <text class="ascii" x="150" y="259" text-anchor="middle" xml:space="preserve">  .S@@@@%;..+#@@@@@@@S%?.          .?%S@@@@@@@@@@@@@@@@@S.  </text>
+  
+  <text class="ascii" x="150" y="266" text-anchor="middle" xml:space="preserve">   .%@@@@@#: .?@@@@@@@@,            ,@@@@@@@@@@@@@@@@@@%.   </text>
+  
+  <text class="ascii" x="150" y="273" text-anchor="middle" xml:space="preserve">    .+@@@@@@:  ,*%SSS?;              ?@@@@@@@@@@@@@@@@+.    </text>
+  
+  <text class="ascii" x="150" y="280" text-anchor="middle" xml:space="preserve">      ,%@@@@@+.                      *@@@@@@@@@@@@@@%,      </text>
+  
+  <text class="ascii" x="150" y="287" text-anchor="middle" xml:space="preserve">        :S@@@@@%*+++++:              *@@@@@@@@@@@@S:        </text>
+  
+  <text class="ascii" x="150" y="294" text-anchor="middle" xml:space="preserve">          ,?@@@@@@@@@@?              *@@@@@@@@@@?:          </text>
+  
+  <text class="ascii" x="150" y="301" text-anchor="middle" xml:space="preserve">            .;?#@@@@@@?              *@@@@@@#?;.            </text>
+  
+  <text class="ascii" x="150" y="308" text-anchor="middle" xml:space="preserve">               .,+?S@@+              ;@@S?+,.               </text>
+  
+  <text class="ascii" x="150" y="315" text-anchor="middle" xml:space="preserve"></text>
+  
+
+  <rect class="sep" x="290" y="12" width="1" height="415" />
+
+  <text class="title" x="308" y="30" textLength="537" lengthAdjust="spacingAndGlyphs"> rxwhalen@github.com <tspan class="titledash">-------------------------------------------------------</tspan></text>
+
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="64" textLength="537" lengthAdjust="spacingAndGlyphs"> - Experience - <tspan class="dividash">------------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="81" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>ARAI Systems<tspan class="dot">:</tspan> <tspan class="dots">...............</tspan><tspan class="val">Founder | SMB Infrastructure and Intelligence</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="98" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Mircostrategy<tspan class="dot">:</tspan> <tspan class="dots">......................................</tspan><tspan class="val">Cloud Engineer Intern</tspan></text>
+  
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="132" textLength="537" lengthAdjust="spacingAndGlyphs"> - Education - <tspan class="dividash">-------------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="149" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Virginia Tech<tspan class="dot">:</tspan> <tspan class="dots">...........................</tspan><tspan class="val">Business IT Undergraduate | 2026</tspan></text>
+  
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="183" textLength="537" lengthAdjust="spacingAndGlyphs"> - Currently Building - <tspan class="dividash">----------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="200" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Cobalt<tspan class="dot">:</tspan> <tspan class="dots">......................</tspan><tspan class="val">Self hosted research and market intelligence</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="217" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan><tspan class="val">.</tspan><tspan class="dot">:</tspan> <tspan class="dots">........................</tspan><tspan class="val">platform. ETL workflow with Ollama integration.</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="234"> <tspan class="dot">·</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="251" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Homelab<tspan class="dot">:</tspan> <tspan class="dots">..................</tspan><tspan class="val">Proxmox cluster running personal LLM, Jellyfin,</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="268" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan><tspan class="val">.</tspan><tspan class="dot">:</tspan> <tspan class="dots">.........................</tspan><tspan class="val">Pi-hole, Bitcoin node, and more. Also used for</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="285" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan><tspan class="val">.</tspan><tspan class="dot">:</tspan> <tspan class="dots">..........................</tspan><tspan class="val">isolated sandbox environment for dev testing.</tspan></text>
+  
+  
+  
+  
+  
+  
+  <text class="divider" x="308" y="319" textLength="537" lengthAdjust="spacingAndGlyphs"> - Tech Stack - <tspan class="dividash">------------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="336" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Cloud/DevOps<tspan class="dot">:</tspan> <tspan class="dots">................</tspan><tspan class="val">AWS, Terraform, Docker, K8s, Ansible, Packer</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="353" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Security/Systems<tspan class="dot">:</tspan> <tspan class="dots">.............</tspan><tspan class="val">Linux (Arch, Debian, Kali), Trivy, Blue/Red</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="370" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Languages<tspan class="dot">:</tspan> <tspan class="dots">..................</tspan><tspan class="val">Python, SQL, Go, Bash, HTML, CSS, JS, C, Rust</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="387" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Data/AI<tspan class="dot">:</tspan> <tspan class="dots">.................</tspan><tspan class="val">Pytorch, Pandas, Numpy, Ollama, RAG, Vector DB's</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="404" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Other<tspan class="dot">:</tspan> <tspan class="dots">.........................................</tspan><tspan class="val">Git, i3wm, neovim, tmux...</tspan></text>
+  
+  
+
+</svg>

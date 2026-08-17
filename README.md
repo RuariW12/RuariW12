@@ -9,5 +9,5 @@
 [![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?logo=google&logoColor=white)](#)
 ---
 
-### Reach Me
-[LinkedIn](https://linkedin.com/in/ruari-whalen) · ruariw16@gmail.com
+### About me
+Hi there! I'm Ruari, a Business IT student at Virginia Tech. I'm currently building a career to sit at the intersection between cloud architecture, cybersecurity, and business. Outside of school, I currently run a small freelance cloud practice - ARAI Solutions, where I help SMB clients optimize their digital infrastructure. Additionally, I run my own homelab for security, research, and entertainment. Feel free to contact me with any inquiries!

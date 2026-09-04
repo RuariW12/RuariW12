@@ -10,4 +10,4 @@
 ---
 
 ### About me
-Hi there! I'm Ruari, a Business IT student at Virginia Tech. I'm currently building a career to sit at the intersection between cloud architecture, cybersecurity, and business. Outside of school, I currently run a small freelance cloud practice - ARAI Solutions, where I help SMB clients optimize their digital infrastructure. Additionally, I run my own homelab for security, research, and entertainment. Feel free to contact me with any inquiries!
+Hi there! I'm Ruari, a Business IT student at Virginia Tech. I'm currently building a career to sit at the intersection between cloud architecture, cybersecurity, and business. Outside of school, I currently run a small freelance cloud practice where I help SMB clients optimize their digital infrastructure. Additionally, I run my own homelab for security, research, and entertainment. Feel free to contact me with any inquiries!

@@ -1,4 +1,4 @@
-![Diagram](./mefetch-card3.svg)
+Hi there! I'm Ruari, a Business IT student at Virginia Tech. I'm currently building a career to sit at the intersection between cloud architecture, cybersecurity, and business. Outside of school, I run my own homelab for security, research, and entertainment. Feel free to contact me with any inquiries!
 
 ### Certifications
 [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7cad4a29-6402-49ff-824a-ed0e0fbdfdd7/linked_in_profile) ·
@@ -9,5 +9,4 @@
 [![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?logo=google&logoColor=white)](#)
 ---
 
-### About me
-Hi there! I'm Ruari, a Business IT student at Virginia Tech. I'm currently building a career to sit at the intersection between cloud architecture, cybersecurity, and business. Outside of school, I currently run a small freelance cloud practice where I help SMB clients optimize their digital infrastructure. Additionally, I run my own homelab for security, research, and entertainment. Feel free to contact me with any inquiries!
+
